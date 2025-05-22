@@ -1,9 +1,9 @@
 # 🛠️ DELTA AL-BATHA TRADING CO. – Official Website
 
 ## Description
-This is a bilingual website I built for **DELTA AL-BATHA TRADING CO.**, a family-owned business that specializes in genuine Nissan auto parts. The goal is to help customers browse and purchase car parts online, while also providing staff with tools to manage inventory and improve operations.
+I developed this site using two languages for **DELTA AL-BATHA TRADING CO.**, a family company that focuses on authentic Nissan automotive parts. We want to allow customers to order car parts online and to give staff members tools to handle inventory and improve their work.
 
-This was my first major project and represents a personal and technical milestone in applying my web development skills to support a real business.
+It was the first significant project for me, showing both how far I’ve come technically and personally as a web developer involved in a business.
 
 ## Live Demo  
 🌐 [View the Site](https://abdullahaljaberi.github.io/DBP/)
@@ -11,15 +11,15 @@ This was my first major project and represents a personal and technical mileston
 ## Features
 
 ### 👤 Customer Features
-- View car parts by name, type, or number
-- Bilingual layout (Arabic and English)
-- Responsive design for desktop and mobile
-- Future plan: search and checkout system
+-Search for car parts based on their name, type or the number given to them.
+- The materials are shown in both Arabic and English.
+-Will display and act correctly on both desktops and mobile phones
+-In the future, the platform will offer a search and checkout system.
 
 ### 👨‍🔧 Staff Features (planned)
-- Add, update, or remove inventory items
-- Track stock levels
-- View or generate basic sales reports
+- You can include, change or exclude items from inventory.
+- Keep an eye on the amount of stock available
+- See or print basic sales reports
 
 ## Technologies Used
 - HTML5
@@ -28,9 +28,9 @@ This was my first major project and represents a personal and technical mileston
 - GitHub Pages (deployment)
 
 ## My Role
-- Designed and coded the entire frontend
-- Implemented bilingual layout and responsive grid
-- Planned the backend architecture for future expansion
+- Designed and coded everything in the frontend.
+- Launched design using two languages and a flexible grid system
+- Designed the backend for future growth in mind.
 
 ## Contributor
 - **Abdullah Aljaberi** (Developer)
