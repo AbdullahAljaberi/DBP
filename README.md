@@ -11,10 +11,10 @@ It was the first significant project for me, showing both how far I’ve come te
 ## Features
 
 ### 👤 Customer Features
--Search for car parts based on their name, type or the number given to them.
+- Search for car parts based on their name, type or the number given to them.
 - The materials are shown in both Arabic and English.
--Will display and act correctly on both desktops and mobile phones
--In the future, the platform will offer a search and checkout system.
+- Will display and act correctly on both desktops and mobile phones
+- In the future, the platform will offer a search and checkout system.
 
 ### 👨‍🔧 Staff Features (planned)
 - You can include, change or exclude items from inventory.
